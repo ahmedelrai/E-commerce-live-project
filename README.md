@@ -46,5 +46,5 @@ This is an ecommerce website built with django, Django Rest Framework, js, jQuer
 ![Alt text](/checkout.png?raw=true "Checkout Page")
 
 
-## Code Source
+## Source Code
 >This is a Private Project but You can contact me to get a copy of The Source Code.
