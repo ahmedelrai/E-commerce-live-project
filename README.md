@@ -1,3 +1,3 @@
 # E-commerce-live-project
 
-![Alt text](/screenshot.png?raw=true "Optional Title")
+![Alt text](/screenshot.jpg?raw=true "Optional Title")
