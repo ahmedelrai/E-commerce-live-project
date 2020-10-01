@@ -2,7 +2,7 @@
 #### [Live Version Here](http://www.elra3i.com)
 
 This is an ecommerce website built with django, Django Rest Framework , bootstrap, Postgres.
-##Features:-
+## Features:-
 * Multi Currencies System
 * Multilingual ( Arabic - English )
 * Responsive UI
@@ -19,19 +19,19 @@ This is an ecommerce website built with django, Django Rest Framework , bootstra
 	* Track Orders
 * Invoices ( being added )
 
-### Home Page
+## Home Page
 ![Alt text](/home.png?raw=true "Home Page")
 
 
-### Item Page
+## Item Page
 ![Alt text](/product.jpg?raw=true "Item Page")
 
 
-### Cart Page
+## Cart Page
 ![Alt text](/cart.png?raw=true "Cart Page")
 
 
-### Checkout Page
+## Checkout Page
 ![Alt text](/checkout.png?raw=true "Checkout Page")
 
 
