@@ -25,6 +25,11 @@ This is an ecommerce website built with django, Django Rest Framework, js, jQuer
 	* Track Orders
 * Invoices ( being added )
 
+
+## Project Structure
+![Alt text](/project-structure.png?raw=true "Project Structure")
+
+
 ## Home Page
 ![Alt text](/home.png?raw=true "Home Page")
 
