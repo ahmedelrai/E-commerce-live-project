@@ -1,7 +1,7 @@
 # E-commerce-live-project
 #### [Live Version Here](http://www.elra3i.com)
 
-This is an ecommerce website built with django, Django Rest Framework , bootstrap, Postgres.
+This is an ecommerce website built with django, Django Rest Framework, js, jQuery , bootstrap, Postgres.
 ## Features:-
 * Multi Currencies System
 * Multilingual ( Arabic - English )
