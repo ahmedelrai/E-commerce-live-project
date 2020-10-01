@@ -1,5 +1,23 @@
 # E-commerce-live-project
-URL: www.elra3i.com
+#### [Live Version Here](www.elra3i.com)
+
+This is an ecommerce website built with django, Django Rest Framework , bootstrap, Postgres.
+##Features:-
+* Multi Currencies System
+* Multilingual ( Arabic - English )
+* Responsive UI
+* Track Orders by order reference
+* Password Reset ( not added yet )
+* Email Confiramtion ( not added yet )
+* Shipping Notification ( not added yet )
+* Full options Cart ( Currently converting it to Ajax Cart )
+* Any Payment Gateway Can be added easily.
+* Customer :-
+	* Multi addresses
+	* Default Address
+	* Order History
+	* Track Orders
+* Invoices ( being added )
 
 ### Home Page
 ![Alt text](/home.png?raw=true "Home Page")
