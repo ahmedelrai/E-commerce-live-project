@@ -6,6 +6,12 @@ This is an ecommerce website built with django, Django Rest Framework, js, jQuer
 * Multi Currencies System
 * Multilingual ( Arabic - English )
 * Responsive UI
+* Rich Text Editor in admin panel for item description
+* Categories System
+* Search
+* Brands
+* Related Products | Accessories
+* Variant ( being added )
 * Track Orders by order reference
 * Password Reset ( not added yet )
 * Email Confiramtion ( not added yet )
